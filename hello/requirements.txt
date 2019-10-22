@@ -17,7 +17,7 @@ louis==2.6.5
 Markdown==2.6.8
 matplotlib==1.5.2rc2
 numpy==1.11.1rc1
-Pillow==3.3.0
+Pillow==6.2.0
 pyasn1==0.1.9
 pycrypto==2.6.1
 pycups==1.9.73
