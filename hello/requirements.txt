@@ -38,5 +38,5 @@ SecretStorage==2.3.1
 six==1.10.0
 smoke-zephyr==1.0.2
 termineter==0.2.6
-urllib3==1.15.1
+urllib3==1.26.5
 virtualenv==15.1.0
